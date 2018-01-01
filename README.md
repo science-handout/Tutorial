@@ -30,12 +30,11 @@
 # قواعد البيانات
 
 `basic Database, sql `
-
+`ممكن تختر كورس واحد من القائمة ديت على حسب راحتك `
 الكورس | المدة 
 :-- | :--: 
-[Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) ([alt](https://cs50.harvard.edu/)) | 12 weeks 
-[تعلم  Css](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | 9 weeks 
-
+[ تعلم sql ](https://www.youtube.com/playlist?list=PLA410065ED903BCA9)  | 12 weeks 
+[تعلم  sql](https://www.youtube.com/watch?v=Apq8FuGNODM&list=PLF8OvnCBlEY25O_Ql0CrgQUAc5NVYkWF2) | 9 weeks
 
 
 # البرمجة
@@ -44,9 +43,7 @@
 
 الكورس | المدة 
 :-- | :--: 
-[Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) ([alt](https://cs50.harvard.edu/)) | 12 weeks 
-[Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | 9 weeks 
-
+[تعلم  php](https://www.youtube.com/watch?v=2jmD1Qkluvo&list=PL8w4ljGGQlbSZQ0Py_LRiEFRII8yD2T5Z) | 12 weeks 
 
 
 
@@ -57,7 +54,7 @@
 
 الكورس | المدة 
 :-- | :--: 
-[Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) ([alt](https://cs50.harvard.edu/)) | 12 weeks 
-[Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | 9 weeks 
+[انشاء المشروع](https://www.youtube.com/playlist?list=PL6dOx0c_MWg75_zB9SnOtZbuQhpKkvsOc) | 12 weeks 
+
 
 
