@@ -30,7 +30,9 @@
 # قواعد البيانات
 
 `basic Database, sql `
+
 `ممكن تختر كورس واحد من القائمة ديت على حسب راحتك `
+
 الكورس | المدة 
 :-- | :--: 
 [ تعلم sql ](https://www.youtube.com/playlist?list=PLA410065ED903BCA9)  | 12 weeks 
